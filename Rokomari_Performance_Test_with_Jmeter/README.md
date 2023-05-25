@@ -5,7 +5,7 @@ Test executed for the below mentioned scenario in server https://www.rokomari.co
 <li>5 Concurrent Request with 0 Loop Count; Avg TPS for Total Samples is ~ 12.12 And Total Concurrent API requested: 1425.</li>
 </ul>
 
-While executed 1425 concurrent request, found  request got connection timeout and error rate is .28%.
+While executed 1425 concurrent request, found 4 request got connection timeout and error rate is .28%.
 
 Summary: Server can handle almost concurrent 284 API call with almost zero (0) percent error rate.
 
