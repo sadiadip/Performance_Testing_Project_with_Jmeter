@@ -7,6 +7,6 @@ Test executed for the below mentioned scenario in server https://www.daraz.com.b
 
 While executed 959 concurrent request, found 2 request got connection timeout and error rate is 0.21%.
 
-Summary: Server can handle almost concurrent 95 API call with almost zero (0) percent error rate.
+<b>Summary:</b> Server can handle almost concurrent 95 API call with almost zero (0) percent error rate.
 
 Please find the details report from the attachment and let me know if you have any further queries.
